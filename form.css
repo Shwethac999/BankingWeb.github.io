@@ -4,13 +4,15 @@ body{
     background-size: cover;
 }
 *{
+   
     margin: 0px;
     padding: 0px;
 }
 .container{
-   
+    background:rgba(0,0,0,0.3);
     height: 550px;
     width: 400px;
+    color:olive;
 }
 div form label{
     font-size: x-large;
